@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpcClientDa", "OpcClientDa\OpcClientDa.csproj", "{CACEFD1A-BC9B-442E-93E7-EF8F5B6828E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientDaNative", "ClientDaNative\ClientDaNative.csproj", "{8D617A6C-4A5E-4103-ABEA-C219FEB5C69F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpcClientDaNative", "ClientDaNative\OpcClientDaNative.csproj", "{8D617A6C-4A5E-4103-ABEA-C219FEB5C69F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
