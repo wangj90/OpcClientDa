@@ -18,7 +18,9 @@ namespace ClientDaNative.Controllers
                     return new OpcItem
                     {
                         ItemId = item.ItemID,
-                        Value = value
+                        Value = value,
+                        Quality = quality,
+                        TimeStamp = timeStamp
                     };
                 })
                 .ToList();

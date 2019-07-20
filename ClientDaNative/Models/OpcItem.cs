@@ -12,8 +12,16 @@ namespace OpcClientDa.Models
         /// </summary>
         public string ItemId { get; set; }
         /// <summary>
-        /// 值
+        /// Item值
         /// </summary>
-        public Object Value { get; set; }
+        public object Value { get; set; }
+        /// <summary>
+        /// Item质量
+        /// </summary>
+        public object Quality { get; internal set; }
+        /// <summary>
+        /// Item获取时间
+        /// </summary>
+        public object TimeStamp { get; internal set; }
     }
 }
