@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpcClientDa", "OpcClientDa\OpcClientDa.csproj", "{CACEFD1A-BC9B-442E-93E7-EF8F5B6828E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientDaNative", "ClientDaNative\ClientDaNative.csproj", "{8D617A6C-4A5E-4103-ABEA-C219FEB5C69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACEFD1A-BC9B-442E-93E7-EF8F5B6828E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACEFD1A-BC9B-442E-93E7-EF8F5B6828E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACEFD1A-BC9B-442E-93E7-EF8F5B6828E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACEFD1A-BC9B-442E-93E7-EF8F5B6828E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D617A6C-4A5E-4103-ABEA-C219FEB5C69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D617A6C-4A5E-4103-ABEA-C219FEB5C69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D617A6C-4A5E-4103-ABEA-C219FEB5C69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D617A6C-4A5E-4103-ABEA-C219FEB5C69F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0CB7BCD-6B7D-4EC9-B330-D9EF131DF0D2}
+	EndGlobalSection
+EndGlobal
